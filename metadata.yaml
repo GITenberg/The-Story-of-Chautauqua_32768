@@ -17,6 +17,8 @@ creator:
 description: A chautauqua is an institution that flourished in the late 19th and early
   20th centuries. They provided popular education combined with entertainment in the
   form of lectures, concerts and plays, often presented outdoors or in a tent.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32768#The-Story-of-Chautauqua
 gutenberg_issued: '2010-06-10'
 gutenberg_type: Text
 identifiers:
