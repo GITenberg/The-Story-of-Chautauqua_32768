@@ -1,0 +1,33 @@
+_repo: The-Story-of-Chautauqua_32768
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32768-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hurlbut, Jesse Lyman
+    aliases:
+    - Hurlbut, J. L. (Jesse Lyman)
+    - Hurlbott, Jesse Lyman
+    birthdate: 1843
+    deathdate: 1930
+    gutenberg_agent_id: '33676'
+    url: http://www.gutenberg.org/2009/agents/33676
+    wikipedia: http://en.wikipedia.org/wiki/Jesse_Lyman_Hurlbut
+description: A chautauqua is an institution that flourished in the late 19th and early
+  20th centuries. They provided popular education combined with entertainment in the
+  form of lectures, concerts and plays, often presented outdoors or in a tent.
+gutenberg_issued: '2010-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32768'
+  lccn: '21014568'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chautauqua Institution'
+- !lcc 'LC'
+title: The Story of Chautauqua
+url: http://www.gutenberg.org/ebooks/32768
